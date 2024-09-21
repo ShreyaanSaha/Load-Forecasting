@@ -1,6 +1,6 @@
 # Power System Load Forecasting Automation using Artificial Neural Network
 
-This project, conducted under the guidance of **Prof. Mousumi Basu**, focuses on automating power system load forecasting using advanced machine learning techniques. The primary goal is to develop a robust forecasting model to predict future power loads accurately, which is crucial for efficient energy management and planning.
+This project focuses on automating power system load forecasting using advanced machine learning techniques. The primary goal is to develop a robust forecasting model to predict future power loads accurately, which is crucial for efficient energy management and planning.
 
 ## Table of Contents
 
